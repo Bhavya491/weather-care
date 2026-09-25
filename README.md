@@ -1,2 +1,25 @@
-# weather-care
-A simple webpage that displays basic information about weather conditions and useful weather tips. This project is created using HTML and managed using GitHub for version control 
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Weather Information</title>
+</head>
+
+<body>
+
+    <h1>☀️ Weather Information</h1>
+
+    <p>Weather describes the condition of the atmosphere at a particular time and place.</p>
+
+    <h2>Types of Weather</h2>
+
+    <ul>
+        <li>Sunny</li>
+        <li>Rainy</li>
+        <li>Cloudy</li>
+        <li>Windy</li>
+    </ul>
+
+</body>
+
+</html>
